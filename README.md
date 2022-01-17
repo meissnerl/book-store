@@ -1,25 +1,8 @@
-# README
+# Book Store Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Rails 6.0.0
+- Ruby 2.7.0
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# book-store
+Ideal next steps:
+    - Utilize factoryBot and faker for cleaner tests
+    - Write front end
