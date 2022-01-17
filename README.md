@@ -4,5 +4,4 @@
 - Ruby 2.7.0
 
 Ideal next steps:
-    - Utilize factoryBot and faker for cleaner tests
-    - Write front end
+    - Utilize factoryBot and faker for cleaner tests and write front-end.
